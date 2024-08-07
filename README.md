@@ -1,6 +1,7 @@
 # Welcome to our CSS project,
 
-  ![Project Image](https://github.com/user-attachments/assets/71d0a0a6-218b-4422-8b93-0f5b5718bde8)
+  ![Project Image]![image](https://github.com/user-attachments/assets/7ffea8bc-4b5d-4020-96bf-32ff166fdd08)
+
 
  ## About the project
  In this project we had to select a product to make a website, we selected Nintendo Switch.
@@ -13,4 +14,3 @@
   - [LinkedIn](https://www.linkedin.com/in/rachael-lawal/)
 - **Juan Angarita** - worked on the product page
 - **Esteban Salazar** - worked on the contact page, header and footer
-![image](https://github.com/user-attachments/assets/3136e1e8-8e48-471d-b438-ca96b8541ce1)
