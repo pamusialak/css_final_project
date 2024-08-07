@@ -166,7 +166,7 @@ header nav .logo img{
 }
 
 
---Beginning of About Page Design--
+/* --Beginning of About Page Design-- */
 .intropg2 {
     transition: transform 0.3s ease;
 }
@@ -414,9 +414,9 @@ header nav .logo img{
         grid-template-columns: 1fr;
     }
 }
---End of Producs page design 
+/* --End of Producs page design 
 
---Beginning of contact page design--
+--Beginning of contact page design-- */
 .contact{
     width: 100%;
     overflow: hidden;
@@ -642,7 +642,7 @@ textarea.contact-input{
     transform: translate(-50%, -50%);
 }
 
---End of contact page design--
+/* --End of contact page design-- */
 
 
 footer {
