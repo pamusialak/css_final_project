@@ -1,11 +1,15 @@
 # Welcome to our CSS project,
 
-  ![Project Image]![image](https://github.com/user-attachments/assets/7ffea8bc-4b5d-4020-96bf-32ff166fdd08)
+  ![Project Image](https://github.com/user-attachments/assets/7ffea8bc-4b5d-4020-96bf-32ff166fdd08)
 
 
  ## About the project
  In this project we had to select a product to make a website, we selected Nintendo Switch.
  We made four different pages divided by the members of the group.
+
+ ### Project
+ You can check the project here:
+ [Project](https://pamusialak.github.io/css_final_project/)
 
  ## Contributors
 - **Pamela Alves Musialak** - worked on the overview page
